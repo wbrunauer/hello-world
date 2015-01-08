@@ -1,0 +1,11 @@
+pwd: print working directory
+clear: clear screen
+ls: list files
+cd: change dir
+mkdir: create dir
+touch: create file
+cp: copy file
+rm -r: remove file (-directory)
+mv: move or rename file
+date: date
+echo: echo command
